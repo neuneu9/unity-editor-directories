@@ -1,0 +1,11 @@
+{
+  "name": "jp.neuneu9.editor-directories",
+  "displayName": "Editor Directories",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Provides the ability to open Unity Editor folders from the menu.",
+  "author": {
+    "name": "neuneu9",
+    "url": "https://github.com/neuneu9"
+  }
+}
